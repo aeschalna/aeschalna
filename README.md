@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Annie/@aeschalna
-- 👀 I’m interested in AI/AGI, human-machine communication, puzzles
+- 👀 I’m interested in AI/AGI, human-machine communication, & programming
 - 🌱 I’m currently learning full stack code development!
 - 💞️ I’m looking to collaborate on projects/puzzles.
 - 📫 How to reach me ~ via email: aeschalna@gmail.com
